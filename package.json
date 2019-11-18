@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "open": "^6.4.0",
+    "p-each-series": "^2.1.0",
+    "simple-plist": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "prettier": "^1.18.2"
+  }
+}

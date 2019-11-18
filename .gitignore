@@ -1,0 +1,5 @@
+node_modules
+*.plist
+*.thlbackup
+*.json
+!package.json
